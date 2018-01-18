@@ -8,7 +8,7 @@
 
 > When moving onto each new task, you should swap roles. So p1 does even numbered tasks and p2 does odd numbered tasks.
 
-##Getting Started
+## Getting Started
 * P1 should Fork and clone this repository
 * P2 should either share the same machine or be added as a collaborator on the forked repo, so they can clone, pull and push
 * Run `bundle install` to install dependencies
